@@ -58,12 +58,4 @@ I'm an extrovert at heart and always excited to meet new people! Reach out if yo
 * 📧 **Email:** [jimmykhangnguyen@gmail.com](mailto:jimmykhangnguyen@gmail.com)
 
 ---
-
-### 📈 GitHub Stats
-
-[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmykhangnguyen&show_icons=true&theme=radium)](https://github.com/Jimmykhangnguyen)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmykhangnguyen&layout=compact&theme=radium)](https://github.com/Jimmykhangnguyen)
-
----
 *💬 Feel free to reach out if you want to chat about tech, urban exploration, or your favorite Vietnamese dish!*
